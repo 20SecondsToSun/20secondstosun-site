@@ -695,6 +695,8 @@ body {
 
 #publications {	
 	padding: 30px 0px;
+}#publications1 { 
+    padding: 0px 0px;
 }
 }
 
@@ -703,6 +705,8 @@ body {
 
 #publications {	
 	padding: 70px 0px;
+}#publications1 { 
+    padding: 0px 0px;
 }
 }
 
@@ -711,6 +715,9 @@ body {
 
 #publications {	
 	padding: 130px 0px;
+}
+#publications1 { 
+    padding: 0px 0px;
 }
 }
 
@@ -762,4 +769,23 @@ background-color:  #cf6b0b;
 	text-decoration: none;
 }
 
+#publications1 .container i.pub 
+{
+    font-family:'Open Sans',sans-serif; 
+    font-size: 25px;    
+     font-style: normal;
+    color: #202626;
+    font-weight: lighter;
+}
+
+#publications1 .container i.pub:hover 
+{
+    color:rgba(240,95,64,.9);
+}
+
+
+#publications1 .container a.publ
+ { 
+    text-decoration: none;
+}
 
