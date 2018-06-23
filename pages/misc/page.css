@@ -200,16 +200,16 @@ background-color:  #cf6b0b;
 
 #publications .container i.pub 
 {
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+  font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 	font-size: 30px;	
 	color: #707070;
-    font-style: normal;
+  font-style: normal;
 }
 
-#publications .container i.pub:hover 
+/*#publications .container i.pub:hover 
 {
 	color:rgba(240,95,64,.9);
-}
+}*/
 
 
 #publications .container a.publ
@@ -224,11 +224,11 @@ background-color:  #cf6b0b;
 
 #tech .container i.pub 
 {
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+  font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 	font-size: 25px;	
 	color: #707070;
-    font-style: normal;
-     font-weight: lighter;
+  font-style: normal;
+  font-weight: lighter;
 }
 
 #tech .container a.publ
