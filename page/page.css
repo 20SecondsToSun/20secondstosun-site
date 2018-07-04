@@ -170,7 +170,7 @@ body {
 }
 
 #publications {	
-	padding: 130px 0px;
+	padding: 0px 0px;
 }
 
 #tags {	
@@ -204,6 +204,16 @@ background-color:  #cf6b0b;
 	font-size: 30px;	
 	color: #707070;
     font-style: normal;
+
+}
+
+#publications .container i.pubn
+{
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+  font-size: 30px;  
+  color: #707070;
+  font-style: normal;
+     font-weight: lighter;
 }
 
 #publications .container i.pub:hover 
@@ -222,7 +232,7 @@ background-color:  #cf6b0b;
 	padding: 0px 0px;
 }
 
-#tech .container i.pub 
+#tech .container i.pub
 {
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 	font-size: 25px;	
@@ -230,6 +240,7 @@ background-color:  #cf6b0b;
     font-style: normal;
      font-weight: lighter;
 }
+
 
 #tech .container a.publ
 { 
